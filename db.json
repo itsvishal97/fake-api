@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Rest 1",
+    "id": 1,
+    "location": "Noida",
+    "rating": 4.5,
+    "ETA": "20 min",
+    "tags": [
+      "American",
+      "Fast Food",
+      "Healthy"
+    ],
+    "photo": ""
+  },
+  {
+    "name": "Rest 2",
+    "id": 1,
+    "location": "Delhi",
+    "rating": 4,
+    "ETA": "10 min",
+    "tags": [
+      "Healthy"
+    ],
+    "photo": ""
+  },
+  {
+    "name": "Rest 3",
+    "id": 1,
+    "location": "Noida",
+    "rating": 5,
+    "ETA": "20 min",
+    "tags": [
+      "Fast Food"
+    ],
+    "photo": ""
+  },
+  {
+    "name": "Rest 4",
+    "id": 1,
+    "location": "Gurgoan",
+    "rating": 4.5,
+    "ETA": "30 min",
+    "tags": [
+      "American"
+    ],
+    "photo": ""
+  },
+  {
+    "name": "Rest 5",
+    "id": 1,
+    "location": "Noida",
+    "rating": 4.5,
+    "ETA": "20 min",
+    "tags": [
+      "American",
+      "Fast Food"
+    ],
+    "photo": ""
+  },
+  {
+    "name": "Rest 6",
+    "id": 1,
+    "location": "Delhi",
+    "rating": 3.5,
+    "ETA": "10 min",
+    "tags": [
+      "Fast Food",
+      "Healthy"
+    ],
+    "photo": ""
+  }
+]
