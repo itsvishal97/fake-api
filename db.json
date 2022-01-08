@@ -4,17 +4,21 @@
     "id": 1,
     "rating": 4.5,
     "ETA": "20 min",
+    "location": "Noida",
     "tags": [
       "American",
       "Fast Food",
       "Healthy"
-    ]
+    ],
+    "photo": "https://images.dog.ceo/breeds/boxer/n02108089_4681.jpg"
   },
   {
     "name": "Rest 2",
     "id": 1,
     "rating": 4,
     "ETA": "10 min",
+    "location": "Noida",
+     "photo": "https://images.dog.ceo/breeds/boxer/n02108089_4681.jpg",
     "tags": [
       "Healthy"
     ]
@@ -24,6 +28,8 @@
     "id": 1,
     "rating": 5,
     "ETA": "20 min",
+    "location": "Noida",
+     "photo": "https://images.dog.ceo/breeds/boxer/n02108089_4681.jpg",
     "tags": [
       "Fast Food"
     ]
@@ -33,6 +39,8 @@
     "id": 1,
     "rating": 4.5,
     "ETA": "30 min",
+    "location": "Noida",
+     "photo": "https://images.dog.ceo/breeds/boxer/n02108089_4681.jpg",
     "tags": [
       "American"
     ]
@@ -42,6 +50,8 @@
     "id": 1,
     "rating": 4.5,
     "ETA": "20 min",
+    "location": "Noida",
+     "photo": "https://images.dog.ceo/breeds/boxer/n02108089_4681.jpg",
     "tags": [
       "American",
       "Fast Food"
@@ -52,6 +62,8 @@
     "id": 1,
     "rating": 3.5,
     "ETA": "10 min",
+    "location": "Noida",
+     "photo": "https://images.dog.ceo/breeds/boxer/n02108089_4681.jpg",
     "tags": [
       "Fast Food",
       "Healthy"
