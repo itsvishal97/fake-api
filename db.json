@@ -8,7 +8,7 @@
       "American",
       "Fast Food",
       "Healthy"
-    ],
+    ]
   },
   {
     "name": "Rest 2",
@@ -17,7 +17,7 @@
     "ETA": "10 min",
     "tags": [
       "Healthy"
-    ],
+    ]
   },
   {
     "name": "Rest 3",
@@ -26,7 +26,7 @@
     "ETA": "20 min",
     "tags": [
       "Fast Food"
-    ],
+    ]
   },
   {
     "name": "Rest 4",
@@ -35,7 +35,7 @@
     "ETA": "30 min",
     "tags": [
       "American"
-    ],
+    ]
   },
   {
     "name": "Rest 5",
@@ -45,7 +45,7 @@
     "tags": [
       "American",
       "Fast Food"
-    ],
+    ]
   },
   {
     "name": "Rest 6",
@@ -55,6 +55,6 @@
     "tags": [
       "Fast Food",
       "Healthy"
-    ],
+    ]
   }
 ]
